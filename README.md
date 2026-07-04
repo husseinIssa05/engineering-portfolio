@@ -59,7 +59,7 @@ Designed the complete mechanical system of a 5-degree-of-freedom robotic arm as 
 
 **Repository**
 
-➡️ https://github.com/YOUR_USERNAME/robotic-arm-design
+➡️ https://github.com/husseinIssa05/robotic-arm-design
 
 ---
 
@@ -77,7 +77,7 @@ Designed and validated a classical PI + Lead controller for DC motor speed regul
 
 **Repository**
 
-➡️ https://github.com/YOUR_USERNAME/dc-motor-speed-control
+➡️ https://github.com/husseinIssa05/dc-motor-speed-control
 
 ---
 
