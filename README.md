@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="images/banner.png" width="900">
+</p>
 # Hussein Issa
 
 **Mechanical Engineering Student | Aspiring Mechatronics Engineer**
