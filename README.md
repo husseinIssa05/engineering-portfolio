@@ -3,7 +3,7 @@
 </p>
 # Hussein Issa
 
-**Mechanical Engineering Student | Aspiring Mechatronics Engineer**
+**Mechanical Engineering Student**
 
 Welcome to my engineering portfolio! This repository serves as a central hub for my engineering projects, showcasing my work in **mechanical design**, **robotics**, **control systems**, and **automation**. Each project documents the engineering process from problem definition and design to analysis, validation, and final results.
 
